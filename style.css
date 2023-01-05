@@ -1,0 +1,13 @@
+body
+{
+
+}
+#heading {
+    width: 100%;
+}
+#title {
+    float: left;
+}
+#button {
+    float: right;
+}
